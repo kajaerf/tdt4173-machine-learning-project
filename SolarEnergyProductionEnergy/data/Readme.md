@@ -35,3 +35,4 @@ This type of test data makes evaluation closer to how the forecasting methods th
 
 Evaluation measure is [MAE](https://en.wikipedia.org/wiki/Mean_absolute_error).
 
+#fyf det funker 
