@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/371869795739153470/fd1e5119020043adb4796e88b95fcf22/artifacts
+end_time: 1697837020026
+entry_point_name: ''
+experiment_id: '371869795739153470'
+lifecycle_stage: active
+run_id: fd1e5119020043adb4796e88b95fcf22
+run_name: Linear Regression
+run_uuid: fd1e5119020043adb4796e88b95fcf22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697837019776
+status: 3
+tags: []
+user_id: thoma

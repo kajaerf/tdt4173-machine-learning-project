@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/371869795739153470/f8528a152b5d48439d5cd1ecb90572da/artifacts
+end_time: 1697837542061
+entry_point_name: ''
+experiment_id: '371869795739153470'
+lifecycle_stage: active
+run_id: f8528a152b5d48439d5cd1ecb90572da
+run_name: Passive Aggressive Regressor
+run_uuid: f8528a152b5d48439d5cd1ecb90572da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697837541795
+status: 3
+tags: []
+user_id: thoma

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/371869795739153470/e4a7f4f479e149d090ab7d2580faa363/artifacts
+end_time: 1697837018646
+entry_point_name: ''
+experiment_id: '371869795739153470'
+lifecycle_stage: active
+run_id: e4a7f4f479e149d090ab7d2580faa363
+run_name: Ridge Regression
+run_uuid: e4a7f4f479e149d090ab7d2580faa363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697837018394
+status: 3
+tags: []
+user_id: thoma
