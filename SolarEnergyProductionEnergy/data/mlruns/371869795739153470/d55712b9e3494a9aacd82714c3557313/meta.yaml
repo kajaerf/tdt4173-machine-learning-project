@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/371869795739153470/d55712b9e3494a9aacd82714c3557313/artifacts
+end_time: 1698140770122
+entry_point_name: ''
+experiment_id: '371869795739153470'
+lifecycle_stage: active
+run_id: d55712b9e3494a9aacd82714c3557313
+run_name: Session Initialized 9620
+run_uuid: d55712b9e3494a9aacd82714c3557313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698140378099
+status: 3
+tags: []
+user_id: kaja
