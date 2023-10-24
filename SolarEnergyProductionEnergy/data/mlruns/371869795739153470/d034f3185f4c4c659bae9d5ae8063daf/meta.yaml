@@ -1,5 +1,5 @@
 artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/371869795739153470/d034f3185f4c4c659bae9d5ae8063daf/artifacts
-end_time: null
+end_time: 1698072011667
 entry_point_name: ''
 experiment_id: '371869795739153470'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1698068132103
-status: 1
+status: 3
 tags: []
 user_id: thoma
