@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/371869795739153470/50cf15b714d044baa1e49d61212ed6cf/artifacts
+end_time: 1697837541679
+entry_point_name: ''
+experiment_id: '371869795739153470'
+lifecycle_stage: active
+run_id: 50cf15b714d044baa1e49d61212ed6cf
+run_name: Dummy Regressor
+run_uuid: 50cf15b714d044baa1e49d61212ed6cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697837541462
+status: 3
+tags: []
+user_id: thoma

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/581842321729054908/e1872b2aed774e99884450844a923c50/artifacts
+end_time: 1697947220889
+entry_point_name: ''
+experiment_id: '581842321729054908'
+lifecycle_stage: active
+run_id: e1872b2aed774e99884450844a923c50
+run_name: Bagging Regressor
+run_uuid: e1872b2aed774e99884450844a923c50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697947219526
+status: 3
+tags: []
+user_id: thoma

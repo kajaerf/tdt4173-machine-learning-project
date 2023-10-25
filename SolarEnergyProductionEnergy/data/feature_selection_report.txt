@@ -1,0 +1,95 @@
+Optimal number of features: 7
+Selected features:
+	- clear_sky_rad:W
+	- diffuse_rad:W
+	- direct_rad:W
+	- elevation:m
+	- sun_azimuth:d
+	- sun_elevation:d
+	- hour
+
+Feature rankings (1 is best):
+	- absolute_humidity_2m:gm3: 19
+	- air_density_2m:kgm3: 13
+	- ceiling_height_agl:m: 11
+	- clear_sky_energy_1h:J: 15
+	- clear_sky_rad:W: 1
+	- cloud_base_agl:m: 7
+	- dew_or_rime:idx: 33
+	- dew_point_2m:K: 8
+	- diffuse_rad:W: 1
+	- diffuse_rad_1h:J: 6
+	- direct_rad:W: 1
+	- direct_rad_1h:J: 4
+	- effective_cloud_cover:p: 20
+	- elevation:m: 1
+	- fresh_snow_12h:cm: 31
+	- fresh_snow_24h:cm: 23
+	- fresh_snow_6h:cm: 34
+	- is_day:idx: 27
+	- is_in_shadow:idx: 35
+	- msl_pressure:hPa: 21
+	- precip_5min:mm: 25
+	- precip_type_5min:idx: 17
+	- pressure_100m:hPa: 5
+	- pressure_50m:hPa: 24
+	- rain_water:kgm2: 29
+	- relative_humidity_1000hPa:p: 22
+	- sfc_pressure:hPa: 14
+	- snow_density:kgm3: 30
+	- snow_melt_10min:mm: 32
+	- snow_water:kgm2: 26
+	- sun_azimuth:d: 1
+	- sun_elevation:d: 1
+	- super_cooled_liquid_water:kgm2: 28
+	- t_1000hPa:K: 2
+	- total_cloud_cover:p: 10
+	- visibility:m: 16
+	- wind_speed_10m:ms: 18
+	- wind_speed_u_10m:ms: 3
+	- wind_speed_v_10m:ms: 12
+	- hour: 1
+	- day: 9
+
+CV scores for each feature set size:
+	- 1 features: -0.07717486960961879
+	- 2 features: 0.40929986064546175
+	- 3 features: 0.4267644480041243
+	- 4 features: 0.42839854234109287
+	- 5 features: 0.44073427442467406
+	- 6 features: 0.4406042455124063
+	- 7 features: 0.4424899821526189
+	- 8 features: 0.43363649340164523
+	- 9 features: 0.41997492120662744
+	- 10 features: 0.4091679129430819
+	- 11 features: 0.41102649670886454
+	- 12 features: 0.41622157596748544
+	- 13 features: 0.4237548603883452
+	- 14 features: 0.4186694535478296
+	- 15 features: 0.4182999283396242
+	- 16 features: 0.3944996741938948
+	- 17 features: 0.38917508257211714
+	- 18 features: 0.38474963363061254
+	- 19 features: 0.38638683929848244
+	- 20 features: 0.38541436975686816
+	- 21 features: 0.3853611976233067
+	- 22 features: 0.3915097258793653
+	- 23 features: 0.38798521781225626
+	- 24 features: 0.3938515515035082
+	- 25 features: 0.39158718016732436
+	- 26 features: 0.3928344258943323
+	- 27 features: 0.39941874522937365
+	- 28 features: 0.4003465088444978
+	- 29 features: 0.4031399497487091
+	- 30 features: 0.3984214506264725
+	- 31 features: 0.40052697174684004
+	- 32 features: 0.400326116432473
+	- 33 features: 0.39598419919905214
+	- 34 features: 0.4020206586095865
+	- 35 features: 0.3958312642729516
+	- 36 features: 0.3961658857269658
+	- 37 features: 0.39786708624838274
+	- 38 features: 0.3957627264365847
+	- 39 features: 0.4001716046596795
+	- 40 features: 0.400085846906304
+	- 41 features: 0.3992132057748609

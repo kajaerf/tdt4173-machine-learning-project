@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/371869795739153470/494438a50019429abd95099810fcf4bd/artifacts
+end_time: 1697837540659
+entry_point_name: ''
+experiment_id: '371869795739153470'
+lifecycle_stage: active
+run_id: 494438a50019429abd95099810fcf4bd
+run_name: Huber Regressor
+run_uuid: 494438a50019429abd95099810fcf4bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697837540431
+status: 3
+tags: []
+user_id: thoma
