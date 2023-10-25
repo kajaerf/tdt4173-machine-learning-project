@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/666332153571445277/6e33b1d6ae6e416dbe09ef612c56d451/artifacts
+end_time: 1698078303688
+entry_point_name: ''
+experiment_id: '666332153571445277'
+lifecycle_stage: active
+run_id: 6e33b1d6ae6e416dbe09ef612c56d451
+run_name: Light Gradient Boosting Machine
+run_uuid: 6e33b1d6ae6e416dbe09ef612c56d451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698078302056
+status: 3
+tags: []
+user_id: thoma

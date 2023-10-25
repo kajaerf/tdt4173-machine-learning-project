@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thoma/OneDrive/Documents/GitHub/tdt4173-machine-learning-project/SolarEnergyProductionEnergy/data/mlruns/371869795739153470/3b428d0f73ab43c3b60b68c7e53822fc/artifacts
+end_time: 1697837536241
+entry_point_name: ''
+experiment_id: '371869795739153470'
+lifecycle_stage: active
+run_id: 3b428d0f73ab43c3b60b68c7e53822fc
+run_name: CatBoost Regressor
+run_uuid: 3b428d0f73ab43c3b60b68c7e53822fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697837535635
+status: 3
+tags: []
+user_id: thoma
